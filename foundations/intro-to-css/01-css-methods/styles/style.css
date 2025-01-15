@@ -16,4 +16,9 @@ p{
 button{
     background-color:rgb(248, 191, 4);
     font-size:20px;
+    border-style:outset;
+    border-left-color:lightgray;
+    border-top-color:lightgray;
+    border-right-color:gray;
+    border-bottom-color:gray;
 }
